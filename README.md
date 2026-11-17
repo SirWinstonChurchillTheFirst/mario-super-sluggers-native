@@ -20,7 +20,7 @@ storage, controllers) is provided by the [wii-recomp runtime](https://github.com
 
 Tested with **RMBE01** (USA (NTSC), revision 0).
 
-Plays into an Exhibition game (stadium, captains, roster, pitching practice) at 60 fps, no graphics errors seen. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end.
+Plays into an Exhibition game (stadium, captains, roster, pitching practice) at 60 fps, no graphics errors seen. Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: batting practice in an Exhibition game, 60.0 fps, no frame over 20 ms). Nothing here says the game is playable to the end.
 
 Only what is written here has been tested. It has not been played to the end. Other regions
 or revisions may work but are untested.
